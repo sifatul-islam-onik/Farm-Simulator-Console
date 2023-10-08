@@ -2,6 +2,10 @@
  Final lab project of University 1st year 2nd Semester CSE-1206 course  
  Every topic covered in the course had to be included in the project  
 
+ # How to Run
+ You have to download the project-files folder, compile the main.cpp and then run it.
+
+ # How to play
 $ This is a console based game  
 $ YOU CAN START A NEW ACCOUNT AND PLAY AN EXISTING ACCOUNT ALSO.  
 $ YOU CAN KEEP MULTIPLE ACCOUNT AND SWITCH BETWEEN THEM TO PLAY.  
